@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestForCalcOpen</string>
+    <string name="open">Открыть приложение калькулятор</string>
+</resources>
